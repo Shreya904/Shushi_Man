@@ -1,4 +1,5 @@
 {
+  "homepage": "https://github.com/Shreya904/Shushi_Man.git",
   "name": "shushi",
   "private": true,
   "version": "0.0.0",
@@ -9,7 +10,8 @@
     "preview": "vite preview"
   },
   "devDependencies": {
-    "vite": "^5.3.1"
+    "vite": "^5.3.1",
+    "vite-plugin-gh-pages": "^0.4.1"
   },
   "dependencies": {
     "aos": "^2.3.4"
